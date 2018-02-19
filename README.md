@@ -1,4 +1,3 @@
-# Image-Editor-
-This widget contains three small subwidgets:
-Pixel Inspector; Piant Brush; Blur Brush.
-It also enables the user to load image via URL or undo.
+# Image-Editor
+Light weight widget which allows the user to load image via URL and inspect pixel, paint and blur on the loaded image.
+
